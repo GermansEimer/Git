@@ -1,2 +1,2 @@
-# Arrays
- Array section for Computer Science Book 
+# Git
+ Git section for Computer Science Book 
